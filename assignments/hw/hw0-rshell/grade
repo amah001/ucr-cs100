@@ -1,5 +1,4 @@
- 6565656565656565656565656565656565656565656565656565656565656565656565656565656565656565656565656565656565656565656565656565656565/ 100
-
+65 /100
   
   -5: no error checking for syscalls (-5 for each syscall, run checksyscalls.sh script in gitlearn/scripts to see details- it takes source files as arguments)
   
