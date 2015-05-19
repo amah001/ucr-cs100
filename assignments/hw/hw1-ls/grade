@@ -1,2 +1,17 @@
-/ 100
+75 / 100
+Last update Fri May 1 23:50:40 2015 -0700
+
+Error checking for syscalls
+file: [src/cp.cpp] -0
+
+file: [src/ls.cpp] -0
+
+
+file: [src/Timer.h] -0
+
+file: [*.cpp] -0
+
+
+-25: -R  doesn't work
+
 
